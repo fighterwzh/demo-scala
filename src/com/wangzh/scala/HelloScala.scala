@@ -2,6 +2,6 @@ package com.wangzh.scala
 
 object HelloScala {
   def main(args: Array[String]): Unit = {
-    println("hello,scala3!")
+    println("hello,scala 3!")
   }
 }
